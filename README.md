@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </ul>
 
-Take a look at my resume <a href = 'https://drive.google.com/file/d/1c_5FJDqndamz6chlP8X3RDcr0hZ0DxaF/view?usp=sharing' target = '_blank'>here</a>
+Take a look at my resume <a href = 'https://drive.google.com/file/d/1mJ4dGdfT4kJEV0JJ4md_QShHxWYSxpEX/view?usp=sharing' target = '_blank'>here</a>
