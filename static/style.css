@@ -13,12 +13,12 @@ p {
 }
 
 img{
-    border-radius: 40%;
+    border-radius: 100%;
 }
 
 img.links{
-    height: 4%;
-    width: 4%;
+    height: 8%;
+    width: 8%;
 }
 
 .center_pic{
